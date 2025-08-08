@@ -1,1 +1,1 @@
-# EFCoreSQLite.Tarefas
+# EFCoreSQLite.Tasks
